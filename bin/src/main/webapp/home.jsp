@@ -8,7 +8,7 @@
 </head>
 <body>
 
-     <form action="addAlien">
+     <form action="addEmp">
        <h2>Employee id</h2>
        <input type="text" name="aid"><br>
        <h2>Employee name</h2>
